@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+$body-font-family: "Open Sans", sans-serif !important;
+v-app {
+    font-family: $body-font-family;
+    font-weight:600;
+}
+.font-thin{
+    font-family: $body-font-family;
+    font-weight:300;
+}
+.font-mid{
+    font-family: $body-font-family;
+    font-weight:400;
+}
+.font-bold{
+    font-family: $body-font-family;
+    font-weight:600;
+}
+.centered {
+    margin: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
