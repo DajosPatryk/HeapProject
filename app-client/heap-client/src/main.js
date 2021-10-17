@@ -12,7 +12,7 @@
 
  Vue.use(VueGoogleMaps, {
   load: {
-    key: 'AIzaSyB_zJowT3YJgYlfYyKqeMiTpGo9tVZdWEk',
+    key: 'censored',
     libraries: 'places'
   },
 })
